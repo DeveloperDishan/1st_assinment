@@ -142,3 +142,58 @@ section {
 }
 
 /* Donate_plan part end */
+/* update part start */
+.mail_back {
+    height: 200px;
+    width: 800px;
+    background-color: pink;
+    margin: 40px auto 0;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+
+.form_main {
+    line-height: 200px;
+    text-align: center;
+}
+
+.input_das {
+    padding: 16px 17px;
+    border: none;
+    border-radius: 5px 0px 0px 5px;
+}
+
+.sub_btn {
+    margin-left: -5px;
+    border-radius: 0 5px 5px 0;
+    -webkit-border-radius: 0 5px 5px 0;
+    -moz-border-radius: 0 5px 5px 0;
+    -ms-border-radius: 0 5px 5px 0;
+    -o-border-radius: 0 5px 5px 0;
+    border: none;
+}
+
+/* update part end */
+/* footer part start */
+footer {
+    padding: 60px;
+    background-color: #000000;
+    text-align: center;
+}
+
+footer h3 {
+    font-family: 'Lobster', cursive;
+    font-size: 36px;
+    color: #FF5959;
+    font-weight: 400;
+}
+
+footer p {
+    color: #fff;
+    margin-top: 15px;
+}
+
+/* footer part end */
