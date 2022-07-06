@@ -100,9 +100,19 @@ section {
     font-family: 400;
 }
 
+
+
+.border_none {
+    border: none;
+    padding: 10px 20px;
+    text-align: center;
+}
+
+
+
 .doner_inner hr {
     width: 650px;
-    margin: 10px auto 36px;
+    margin: 0px auto 36px;
     color: #70707082;
 }
 
@@ -142,6 +152,35 @@ section {
 }
 
 /* Donate_plan part end */
+
+/* contrebute part start */
+#contrebute {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.con_left,
+.con_right {
+    width: 40%;
+}
+
+.con_left h2 {
+    font-size: 45px;
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+
+.con_left .margin {
+    margin: 31px 0;
+}
+
+.con_right img {
+    width: 100%;
+}
+
+/* contrebute part end */
+
 /* update part start */
 .mail_back {
     height: 200px;
